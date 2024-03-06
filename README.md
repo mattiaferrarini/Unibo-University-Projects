@@ -7,7 +7,7 @@ Notebooks covering topics such as SVD, nonlinear equations, LSQ, polynomial regr
 ### [CXGame - Algorithms and Data Structures, July 2023](https://github.com/maforn/CXGame) 
 AI agent capable of playing CXGame, a generalized version of the Connect Four game where the grid has an arbitrary size and the players need to align an arbitrary number of pieces to win. 
 
-### [SuperAlfaBros - Programming, Feb 2022](https://github.com/maforn/SuperAlfaBros)
+### [SuperAlfaBros - Programming, Feb 2023](https://github.com/maforn/SuperAlfaBros)
 A platformer game in ASCII graphic developed with C++ and ncurses library.
 The project includes several levels, enemies, power-ups and a market.
 
