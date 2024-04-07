@@ -1,5 +1,5 @@
 # Computer Science Projects @ University of Bologna
-This is a list of the projects I have worked on so far as part of the Computer Science degreee at the University of Bologna
+This is a list of the projects I have worked on so far as part of the Computer Science degree at the University of Bologna
 
 ### [Notebooks - Numerical Computing, Jan 2023](https://github.com/MattiaFerrarini/Numerical-Computing)
 Notebooks covering topics such as SVD, nonlinear equations, LSQ, polynomial regression, unconstrained optimization and image enhancement.
