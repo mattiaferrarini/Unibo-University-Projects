@@ -1,6 +1,9 @@
 # Computer Science Projects @ University of Bologna
 This is a list of the projects I have worked on so far as part of the Computer Science degree at the University of Bologna
 
+### [µPandOS - Operating Systems, Jun 2024](https://github.com/maforn/microPandOS)
+Implementation of a microkernel operating system on the µRISCV architecture.
+
 ### [Notebooks - Numerical Computing, Jan 2024](https://github.com/mattiaferrarini/Numerical-Computing)
 Notebooks covering topics such as SVD, nonlinear equations, LSQ, polynomial regression, unconstrained optimization and image enhancement.
 
@@ -12,4 +15,4 @@ A platformer game in ASCII graphic developed with C++ and ncurses library.
 The project includes several levels, enemies, power-ups and a market.
 
 ### [Nand2Tetris - Computer Architecture, Dec 2022](https://github.com/mattiaferrarini/Nand2Tetris)
-First six projects of _From Nand to Tetris: Building a Modern Computer From First Principles_ (https://www.nand2tetris.org/).
+First six projects of _From Nand to Tetris: Building a Modern Computer From First Principles_.
