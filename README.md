@@ -7,7 +7,7 @@ Implementation of a microkernel operating system on the µRISCV architecture.
 ### [Notebooks - Numerical Computing, Jan 2024](https://github.com/mattiaferrarini/Numerical-Computing)
 Notebooks covering topics such as SVD, nonlinear equations, LSQ, polynomial regression, unconstrained optimization and image enhancement.
 
-### [CXGame - Algorithms and Data Structures, July 2023](https://github.com/maforn/CXGame) 
+### [CXGame - Algorithms and Data Structures, Jul 2023](https://github.com/maforn/CXGame) 
 AI agent capable of playing CXGame, a generalized version of the Connect Four game where the grid has an arbitrary size and the players need to align an arbitrary number of pieces to win. 
 
 ### [SuperAlfaBros - Programming, Feb 2023](https://github.com/maforn/SuperAlfaBros)
