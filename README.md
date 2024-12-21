@@ -1,8 +1,11 @@
 # Computer Science Projects @ University of Bologna
 This is a list of the projects I have worked on so far as part of the Computer Science degree at the University of Bologna
 
+### [Social Backgammon - Software Engineering, Dec 2024](https://github.com/mattiaferrarini/social-backgammon)
+Online backgammon multiplayer developed with Scrum practices. Built with Vue.js, TypeScript, Tailwind, Python, FastAPI, and MongoDB.
+
 ### [Selfie - Web Technologies, Sep 2024](https://github.com/mattiaferrarini/Selfie)
-A website to help students manage their private, social, and academic life. Built with Vue.js, TypeScript, Tailwind, and Node.js.
+Website to help students manage their private, social, and academic life. Built with Vue.js, TypeScript, Tailwind, Node.js, and MongoDB.
 
 ### [µPandOS - Operating Systems, Jun 2024](https://github.com/maforn/microPandOS)
 Implementation of a microkernel operating system on the µRISCV architecture.
