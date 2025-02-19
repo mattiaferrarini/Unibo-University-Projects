@@ -1,6 +1,9 @@
 # Computer Science Projects @ University of Bologna
 This is a list of the projects I have worked on so far as part of the Computer Science degree at the University of Bologna
 
+### [MEME Airlines - Databases, Jan 2024](https://github.com/mattiaferrarini/MEMEAirlines)
+Design of an SQL database for a flying company, covering requirement analysis, conceptual design, logical design and normalization.
+
 ### [Social Backgammon - Software Engineering, Dec 2024](https://github.com/mattiaferrarini/social-backgammon)
 Online backgammon multiplayer developed with Scrum practices. Built with Vue.js, TypeScript, Tailwind, Python, FastAPI, and MongoDB.
 
