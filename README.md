@@ -1,10 +1,10 @@
 # Computer Science Projects @ University of Bologna
 This is a list of the projects I have worked on so far as part of the Computer Science degree at the University of Bologna
 
-### [Separation of MNIST and Fashion-MNIST - Introduction to Machine Learning, Feb 25](https://www.kaggle.com/code/mattiaferrarini/separation-of-mnist-and-fashion-mnist)
+### [Separation of MNIST and Fashion-MNIST - Introduction to Machine Learning, Feb 2025](https://www.kaggle.com/code/mattiaferrarini/separation-of-mnist-and-fashion-mnist)
 Separation of two images, from MNIST and Fashion-MNIST respectively, given an overlapping version.
 
-### [MEME Airlines - Databases, Jan 2024](https://github.com/mattiaferrarini/MEMEAirlines)
+### [MEME Airlines - Databases, Jan 2025](https://github.com/mattiaferrarini/MEMEAirlines)
 Design of an SQL database for a flying company, covering requirement analysis, conceptual design, logical design and normalization.
 
 ### [Social Backgammon - Software Engineering, Dec 2024](https://github.com/mattiaferrarini/social-backgammon)
